@@ -1,4 +1,4 @@
-# Air_Quality_Index_Prediction
+## Air Quality Index Prediction
 This model detects the level of pollution based on given atmospheric values obtained through Web Scraping .
 It predicts the value for a particular date using various machine learning algorithims and was  deployed on Heroku.
 Some of algorithims are-
